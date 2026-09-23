@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "0.3.3",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/pomi-releases/releases/download/v0.3.3/POMi-v0.3.3.apk",
-  "changelog": "Teste Funcionalidade Auto Update apk",
+  "versionCode": 2,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/pomi-releases/releases/download/v0.5.0/POMi-v0.5.0.apk",
+  "changelog": "Feature Planeamento adicionada",
   "forceUpdate": false
 }
